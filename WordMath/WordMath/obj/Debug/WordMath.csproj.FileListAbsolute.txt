@@ -1,0 +1,7 @@
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\WordMath\WordMath\bin\Debug\WordMath.exe.config
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\WordMath\WordMath\bin\Debug\WordMath.exe
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\WordMath\WordMath\bin\Debug\WordMath.pdb
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\WordMath\WordMath\obj\Debug\WordMath.csproj.AssemblyReference.cache
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\WordMath\WordMath\obj\Debug\WordMath.csproj.CoreCompileInputs.cache
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\WordMath\WordMath\obj\Debug\WordMath.exe
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\WordMath\WordMath\obj\Debug\WordMath.pdb
